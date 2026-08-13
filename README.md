@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Aspiring Data Analyst & IT Support Professional | Learning SQL, Python & Excel | Open to internships | Building projects one step at a time.
+🎓 Aspiring Data Analyst & IT Support Professional | Learning SQL, Python & Excel | Open to internships and job | Building projects one step at a time.
 
 
 ## 🌐 Socials:
